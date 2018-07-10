@@ -1,8 +1,9 @@
 package sun.study.nio;
 
 /**
- * @Author Sun Mengjie
- * @Date 2018/7/10
+ * @author Sun Mengjie
+ * @version 2018/7/10-1
+ * 包信息java文件
  */
 public class App {
 
